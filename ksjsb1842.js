@@ -117,7 +117,6 @@ const AdSign = {
     },
 };
 
-
 let curHours = new Date().getHours();
 class ksUser {
     constructor(cookie) {
