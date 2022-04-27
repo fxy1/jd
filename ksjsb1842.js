@@ -350,7 +350,6 @@ class _0x9d8dda {
 
     _0x5ee7d8["result"] == 1 ? console["log"]("账号[" + this["name"] + ']看' + _0x509425["name"] + '获得' + _0x5ee7d8["data"]["awardAmount"] + '金币') : console["log"]("账号[" + this["name"] + ']看' + _0x509425["name"] + "失败：" + _0x5ee7d8["error_msg"]);
   }
-
   async ["openBox"](_0xee493a) {
     let _0x4ac926 = "https://nebula.kuaishou.com/rest/n/nebula/box/explore?isOpen=" + _0xee493a + "&isReadyOfAdPlay=true",
         _0x2ae512 = '',
